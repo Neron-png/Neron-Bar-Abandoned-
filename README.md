@@ -6,6 +6,7 @@ Neron Bar is an alternative to warp bar that works with Mario Maker 2.
 
 ## Installation
 
+**If you encounter any issues, dm me on twitter @theripstikerpro**
 
 Install [Python 3.6](https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64-webinstall.exe) (no newer, no earlier) And maker sure you  click "Add python 3.6 to PATH" In the installer
 
