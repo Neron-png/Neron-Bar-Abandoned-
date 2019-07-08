@@ -16,6 +16,7 @@ Type the bellow in the windows shell (cmd)
 ```bash
 pip install Pillow
 pip install pytesseract
+pip install keyboard
 ```
 
 Make sure you have OBS Installed.
