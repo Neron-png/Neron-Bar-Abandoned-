@@ -20,7 +20,7 @@ pip install pytesseract
 
 Make sure you have OBS Installed.
 
-Download the neron bar.msi from releases and run it when it's installed.
+Download the neron bar.msi from [releases](https://github.com/Ripstikerpro/Neron-Bar/releases) and run it when it's installed.
 
 
 ## Setup
