@@ -51,6 +51,17 @@ To use this first make sure you've gone through the installation process. Then g
 To fetch the data of a level in Mario maker, simply click refresh while viewing the level details. like in this screenshot, 
 **With the id shown!** ![](https://i.imgur.com/HqZYPZu.png)
 
+## Contents
+Here are the contents of the installer:
+
+Screenshot-Filter obs plugin by synap5e
+
+A custom install of tesseract
+
+neron.py , which is the script that does the processing.
+
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
