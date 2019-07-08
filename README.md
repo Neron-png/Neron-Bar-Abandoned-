@@ -2,7 +2,7 @@
 
 Neron Bar is an alternative to warp bar that works with Mario Maker 2.
 
-![](https://i.imgur.com/k2TxHBA.png)
+![](https://i.imgur.com/ti25OmG.png)
 
 ## Installation
 
