@@ -1,4 +1,6 @@
-# Neron Bar
+Neron bar is abandoned, feel free to use the code however you like!
+
+# Neron Bar (Abandoned)
 
 Neron Bar is an alternative to warp bar that works with Mario Maker 2.
 
